@@ -1,0 +1,144 @@
+[[libstrophe]]
+arch = "aarch64"
+git-tree-sha1 = "e6ac403f471674978b820136a88b03b0b80f8641"
+os = "macos"
+
+    [[libstrophe.download]]
+    sha256 = "5428b2c1ce527d2f31b9e5d82ae5c40b21391957e38e838d5bd9b0286c754ac3"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.aarch64-apple-darwin.tar.gz"
+[[libstrophe]]
+arch = "aarch64"
+git-tree-sha1 = "dcbb3a31f803ab1ae6f92bcf6d2f627fb3180a7b"
+libc = "glibc"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "c4940475fe260b5fb41375579b4f6619eb925caded5cc1160d78d28caec048b0"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.aarch64-linux-gnu.tar.gz"
+[[libstrophe]]
+arch = "aarch64"
+git-tree-sha1 = "819074cdcbb2788b5d16e18ddab549a58d0cb354"
+libc = "musl"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "c5f2e671cd2d8045ffa61aba5047d8dd92ec1aee2482fb8b9f9a7bbdfd85e461"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.aarch64-linux-musl.tar.gz"
+[[libstrophe]]
+arch = "aarch64"
+git-tree-sha1 = "580e0f4c08a2d01f9bf138ba30fb6f3be4741dd9"
+os = "freebsd"
+
+    [[libstrophe.download]]
+    sha256 = "42d31549353b12dee87ea08c996cc1040b6154e04145d3fd3985cf998e08fae4"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.aarch64-unknown-freebsd.tar.gz"
+[[libstrophe]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "36967729e824ee67e24593f9700c47a1c8917150"
+libc = "glibc"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "c6db69b9d7064b37c312171860c38451c25301235ced7283209a37340c704017"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.armv6l-linux-gnueabihf.tar.gz"
+[[libstrophe]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6df2ecfd95dec46d326af2d49370ca4232feab4d"
+libc = "musl"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "cce10dd8ac8a0ccc8c4d874362b7a5b6559f221c52f43e277fe2dc8e207b97b8"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.armv6l-linux-musleabihf.tar.gz"
+[[libstrophe]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8438c619e9a7e7da4394e0604a87f22e5e09457c"
+libc = "glibc"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "20c641494f6c191e213bc0556246e1188e076d8d01fed24bdddd07c02e6008e3"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.armv7l-linux-gnueabihf.tar.gz"
+[[libstrophe]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6d436746f47644cce83675687495ab7dea0b73a8"
+libc = "musl"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "7c96e42fde34d68c593b054f80c42178b47ffe4722b087a496ed86b5a2aaacae"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.armv7l-linux-musleabihf.tar.gz"
+[[libstrophe]]
+arch = "i686"
+git-tree-sha1 = "be9587887091a46f778aad7d3454060ab261f603"
+libc = "glibc"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "eeeef1404ea7822223426137598a98244eb85e4946d3788ad1b50a1ec9cb92d6"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.i686-linux-gnu.tar.gz"
+[[libstrophe]]
+arch = "i686"
+git-tree-sha1 = "22c96867728f9dc6657653790b18bc181b268b47"
+libc = "musl"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "927fd83706fd62690d35cb11893b48c8adef3b6c151bce06fd3c3922eeec5caf"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.i686-linux-musl.tar.gz"
+[[libstrophe]]
+arch = "powerpc64le"
+git-tree-sha1 = "9743ea59486cb41dd91dc9c5827a771d1af750f8"
+libc = "glibc"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "9ecaf6177497966404306cc38d9eee90d8176eb4eba6a1a3cde0b7cfd6324268"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.powerpc64le-linux-gnu.tar.gz"
+[[libstrophe]]
+arch = "riscv64"
+git-tree-sha1 = "c9344603877ba8cd170a32cc1c894326bad98711"
+libc = "glibc"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "e9732b292c79a63e44a5faa61715490299273dea49c665aea0d64dd096ab79a5"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.riscv64-linux-gnu.tar.gz"
+[[libstrophe]]
+arch = "x86_64"
+git-tree-sha1 = "b4c4c8f646410a5720d06fb1c6856851f4609528"
+os = "macos"
+
+    [[libstrophe.download]]
+    sha256 = "7b256aacc8eebb5ee57a299efe303119213b739634dc1c866b7cf06553e3ffa1"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.x86_64-apple-darwin.tar.gz"
+[[libstrophe]]
+arch = "x86_64"
+git-tree-sha1 = "11e3c9d6dcfa7214e6844fbb5a5ea91b6ac0bc6b"
+libc = "glibc"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "777d63392cc718ef6a8f91cebd7125f6d6a20a41b78b263acd1cf1339eaa57a9"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.x86_64-linux-gnu.tar.gz"
+[[libstrophe]]
+arch = "x86_64"
+git-tree-sha1 = "dd8f379ca6507bbdc0410be05bd68b0fd7fdb51c"
+libc = "musl"
+os = "linux"
+
+    [[libstrophe.download]]
+    sha256 = "c79d1610bfbc5a3b0ed19a5d961c4509d9a2b3c069e4a28804654dea4a2c47aa"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.x86_64-linux-musl.tar.gz"
+[[libstrophe]]
+arch = "x86_64"
+git-tree-sha1 = "7850c8656147aa42d3d4a4eba3333054b4cf5620"
+os = "freebsd"
+
+    [[libstrophe.download]]
+    sha256 = "5afb6f250fd6c455a4ef2df62d8398610613f792419838dffa2b2cea3e240bba"
+    url = "https://github.com/JuliaBinaryWrappers/libstrophe_jll.jl/releases/download/libstrophe-v0.14.0+0/libstrophe.v0.14.0.x86_64-unknown-freebsd.tar.gz"
